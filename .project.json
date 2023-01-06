@@ -1,0 +1,49 @@
+{
+    "dataBinding": {
+        "/webapp/view/CaseList.view.xml": {
+            "entitySet": ""
+        }, 
+        "/webapp/view/ServiceList.view.xml": {
+            "entitySet": "/CaseSet"
+        }, 
+        "/webapp/view/ServiceDetail.view.xml": {
+            "entitySet": "/Clinical_ServiceSet"
+        }, 
+        "/webapp/view/InvoicePayment.view.xml": {
+            "entitySet": "/CaseSet"
+        }, 
+        "/webapp/view/InsuranceRelationship_1.view.xml": {
+            "entitySet": "/InsuranceSet"
+        }, 
+        "/webapp/view/ServiceDetailSearchSearch.view.xml": {
+            "entitySet": "/Clinical_ServiceSet"
+        }, 
+        "/webapp/view/ServiceSearch.view.xml": {
+            "entitySet": "/CaseSet"
+        }, 
+        "/webapp/view/PaymentDistribution.view.xml": {
+            "entitySet": ""
+        }, 
+        "/webapp/view/InsuranceRelationship.view.xml": {
+            "entitySet": ""
+        }, 
+        "/webapp/view/InsuranceRelationshipRemark.view.xml": {
+            "entitySet": ""
+        }, 
+        "/webapp/view/Dialog5.view.xml": {
+            "entitySet": ""
+        }, 
+        "/webapp/view/Log.view.xml": {
+            "entitySet": ""
+        }, 
+        "/webapp/view/Dialog7.view.xml": {
+            "entitySet": ""
+        }, 
+        "/webapp/view/Popover1.view.xml": {
+            "entitySet": ""
+        }, 
+        "/webapp/view/Dialog8.view.xml": {
+            "entitySet": ""
+        } 
+    }
+}
